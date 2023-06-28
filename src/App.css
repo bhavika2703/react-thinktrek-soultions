@@ -1,0 +1,29 @@
+.header-wraper{
+    position: relative;
+    background: url(dashbored.png)no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+  
+  }
+
+  .main-info{
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    flex-direction: column;
+    padding: 6%;
+    width: 50%;
+    justify-content: start;
+    align-items: start;
+    text-align: start;
+    font-family: "Roboto Condesed" sans-serif;
+  }
+  .main-info h1{
+    color: var(--primary-blue);
+    text-transform: uppercase;
+  }
+  
