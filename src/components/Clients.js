@@ -1,5 +1,5 @@
 import React from 'react';
-import QOR from '../images/clients/QOR.jpg';
+import client3 from '../images/clients/client3.png';
 import client2 from '../images/clients/client2.jpeg';
 import client1 from '../images/client1.png';
 
@@ -33,7 +33,7 @@ const Clients = () => {
                         </div>
 
                         <div style={clientImage} className= "overflow-hidden flex justify-center transition-all ease-in-out opacity-50 hover:opacity-100 w-1/6">
-                            <img src={QOR} alt="client" />                           
+                            <img src={client3} alt="client" />                           
                         </div>
 
                                            

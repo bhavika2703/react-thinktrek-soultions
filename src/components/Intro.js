@@ -13,7 +13,9 @@ const Intro = () => {
                         </div>
                         <div className="flex-col my-4 text-center lg:text-left lg:my-0 lg:justify-end w-full lg:w-1/2 px-8" data-aos="zoom-in" data-aos-delay="500">
                             
-                            <h3 className="text-3xl  text-blue-900 font-bold">We provide high quality Management Consulting, ISO Consulting, Soft Skill Training, web and mobile applications for organizations and institutions  </h3>
+                            <h3 className="text-3xl  text-blue-900 font-bold">Business process management is our interesting area we like to work with all kind of business owner for the
+ purpose of smooth business functioning and its work with our business support services like management
+ consulting, website design, soft skill training , ISO consulting etc   </h3>
                             <div>
                                 <p className='my-3 text-xl text-gray-600 font-semibold'>Our team is well vast in software development and is ready to help develop the applications of your choice.</p>
                             </div>
