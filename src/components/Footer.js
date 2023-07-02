@@ -102,7 +102,7 @@ const Footer = () => {
                         to="#"
                         className=" hover:text-gray-900"
                     >
-                        Molad e Konsult
+                       THINKTREK
                     </HashLink>. All rights reserved.
                     </div>
                 </div>
